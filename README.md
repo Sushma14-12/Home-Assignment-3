@@ -28,6 +28,9 @@ Install the required dependencies:
 
 Execute each assignment script separately:
 
-**python autoencoder.py   # Q1 and Q2
-python text_generation.py   # Q3
-python sentiment_analysis.py   # Q4**
+**python autoencoder.py   # Q1 and Q2**
+
+**python text_generation.py   # Q3**
+
+
+**python sentiment_analysis.py   # Q4**
